@@ -125,6 +125,12 @@ Isabella emerged as a favorite in the 2000s.
 
 * The trend of the total birth rate for each year showed that more births were recorded in 1990, marking a generational high in baby naming.
 
+#### Total births by Year
+![Total births by Year](https://github.com/user-attachments/assets/a7d35875-a5ef-4e8c-b01a-49869f15441f)
+
+
+
+
 * The top 5 states with the highest number of births in total are CA, TX, NY, FL, and IL
 
 * The Top 5 names with the most popularity in CA are Michael, Daniel, Christopher, David, and Jessica
@@ -145,20 +151,20 @@ Isabella emerged as a favorite in the 2000s.
 *  Popular Names with Historical Spikes & Declines
 Although the following names experienced historical spikes in popularity, there was a noticeable gradual decline in more recent years:
 
-![Yearly Trend in Name Michael](https://github.com/user-attachments/assets/9ecab12e-4c6b-45e0-a533-062aa2da2b93)
 ##### Yearly Trend in Name: Michael
+![Yearly Trend in Name Michael](https://github.com/user-attachments/assets/9ecab12e-4c6b-45e0-a533-062aa2da2b93)
 
-![Yearly Trend in name Christopher](https://github.com/user-attachments/assets/075585cd-2d71-476c-9b8d-e50d2610305b)
 ##### Yearly Trend in Name: Christopher
+![Yearly Trend in name Christopher](https://github.com/user-attachments/assets/075585cd-2d71-476c-9b8d-e50d2610305b)
 
-![Yearly trend in Name Matthew](https://github.com/user-attachments/assets/dfc941fa-5e5b-4fa4-80fa-ddb870a1d524)
 ##### Yearly Trend in Name: Matthew
+![Yearly trend in Name Matthew](https://github.com/user-attachments/assets/dfc941fa-5e5b-4fa4-80fa-ddb870a1d524)
 
+##### Yearly Trend in Name: Joshua
 ![Yearly Trend in  Name Joshua](https://github.com/user-attachments/assets/5a9dea56-7021-47d5-b2a7-fd7a2918e82d)
- ##### Yearly Trend in Name: Joshua
- 
+
+ ##### Yearly Trend in Name: Jessica
 ![Yearly Trend in  Name Jessica](https://github.com/user-attachments/assets/6745c41e-1ec8-4f7d-af02-0f13c83b2e88)
-##### Yearly Trend in Name: Jessica
 
 
 #### Findings from yearly trends
