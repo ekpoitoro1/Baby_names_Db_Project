@@ -145,6 +145,23 @@ Isabella emerged as a favorite in the 2000s.
 *  Popular Names with Historical Spikes & Declines
 Although the following names experienced historical spikes in popularity, there was a noticeable gradual decline in more recent years:
 
+![Yearly Trend in Name Michael](https://github.com/user-attachments/assets/9ecab12e-4c6b-45e0-a533-062aa2da2b93)
+##### Yearly Trend in Name: Michael
+
+![Yearly Trend in name Christopher](https://github.com/user-attachments/assets/075585cd-2d71-476c-9b8d-e50d2610305b)
+##### Yearly Trend in Name: Christopher
+
+![Yearly trend in Name Matthew](https://github.com/user-attachments/assets/dfc941fa-5e5b-4fa4-80fa-ddb870a1d524)
+##### Yearly Trend in Name: Matthew
+
+![Yearly Trend in  Name Joshua](https://github.com/user-attachments/assets/5a9dea56-7021-47d5-b2a7-fd7a2918e82d)
+ ##### Yearly Trend in Name: Joshua
+ 
+![Yearly Trend in  Name Jessica](https://github.com/user-attachments/assets/6745c41e-1ec8-4f7d-af02-0f13c83b2e88)
+##### Yearly Trend in Name: Jessica
+
+
+#### Findings from yearly trends
             Michael: Once the most dominant male baby name in the U.S., Michael shows a clear decline in birth count since its peak in the 1980s and 1990s.
 
             Christopher: Widely popular in the 1980s, the name’s usage has steadily dropped year over year.
