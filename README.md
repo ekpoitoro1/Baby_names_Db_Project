@@ -45,7 +45,9 @@ This table contains Columns including state, gender, year, name, and births.
 
 * What are the top names for each year?
 
-* Which state had the highest number of births in total? 
+* Which state had the highest number of births in total?
+  
+* What are the top 5 names per region?
 
 * What is the total birth rate for each year?
 
