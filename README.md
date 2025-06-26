@@ -37,7 +37,7 @@ This table contains Columns including state, gender, year, name, and births.
 
 * What are the Top 5 most popular and 5 least popular names by gender across all years?
 
-* What are the top names for the first 3 early (1980, 1981,1982) years and recent years? 
+* What are the top names for the first 3 early (1980, 1981, and 1982) years and recent years (2007, 2008, and 2009? 
 
 * What are the top-most popular baby names of all time by total births? 
 
